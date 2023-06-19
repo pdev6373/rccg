@@ -1,4 +1,6 @@
 export {default as Auth} from './Auth';
+export {default as Login} from './Login';
+export {default as Register} from './Register';
 export {default as Welcome} from './Welcome';
 export {default as ConfirmEmail} from './ConfirmEmail';
 export {default as VerifiedSuccessfully} from './VerifiedSuccessfully';
